@@ -721,6 +721,7 @@ margin-top: 8px;
   .store-img{
     width:90px;
     height:90px;
+	  border: 3px solid #4e6f8f;
   }
 
   .store-footer{
